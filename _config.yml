@@ -26,11 +26,11 @@ urls:
 
 author_logo: profile.png
 author: S. Ravivarman
-author_bio: Hi, my name is Ravivarman Shanmugasundaram.
+author_bio: Ravivarman Shanmugasundaram .noun - a person who loves electrical and electronics engineering
 author_email: "siliconravi@yahoo.com"
 author_location: India
 author_website_url: "https://sravivarman.com"
-typewrite-text: .noun - a person who loves electrical and electronics engineering
+typewrite-text: I'm always learning something. How about you?
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
