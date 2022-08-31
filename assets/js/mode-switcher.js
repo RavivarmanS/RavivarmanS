@@ -4,7 +4,7 @@
 function modeSwitcher() {
 	document.documentElement.setAttribute('data-theme', 'dark');
 	sessionStorage.setItem('theme', 'dark');
-}
+//}
 
  	if (currentTheme === "dark") {
  		document.documentElement.setAttribute('data-theme', 'light');
@@ -16,4 +16,4 @@ function modeSwitcher() {
  		document.documentElement.setAttribute('data-theme', 'dark');
  		sessionStorage.setItem('theme', 'dark');
  	}
- }
+}
