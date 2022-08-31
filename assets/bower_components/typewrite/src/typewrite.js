@@ -7,7 +7,7 @@
             showCursor: true,
             blinkingCursor: true,
             cursor: '|',
-            selectedBackground: '#FF6600',
+            selectedBackground: '#FF7601',
             selectedText: '#333333'
         }, options);
 
