@@ -253,6 +253,7 @@ header {
 }
 .navbar-dark .navbar-nav .nav-link {
     color: #ff7601 !important;
+	font-weight: bold;
 }
 .navbar-dark .navbar-toggler {
     border-color:transparent !important;
@@ -710,7 +711,7 @@ header {
     .nav-link {
         font-size: 15px !important;
         color: var(--main-text-color);
-        font-weight: 600;
+        font-weight: 800;
     }
 
 }
